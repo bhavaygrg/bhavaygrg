@@ -1,3 +1,5 @@
+Sup' Fellow tech enthusiast >_<
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=radical)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
