@@ -46,6 +46,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 
+
 # <h2 align="center">Contact me!</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/bhavaygarg/">
@@ -54,8 +55,8 @@
   <a href="https://twitter.com/bhavaygarg">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- ![](https://dcbadge.vercel.app/api/shield/280228583518240770)
 </div>
+![](https://dcbadge.vercel.app/api/shield/280228583518240770)
 
 
 
