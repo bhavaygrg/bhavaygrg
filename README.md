@@ -47,7 +47,17 @@
 
 
 # <h2 align="center">Contact me!</h2>
-![gargbhavay78@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bhavaygarg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/280228583518240770/">
+    <img src="![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)" alt="discord"/>
+  </a>
+  <a href="https://twitter.com/bhavaygarg">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
