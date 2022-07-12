@@ -46,6 +46,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 
+# <h2 align="center">Contact me!</h2>
+![gargbhavay78@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+
 <h1 align="center">Thank You For Visitng My Profile ;)</h1>
                                                                  
  <p align="center">
