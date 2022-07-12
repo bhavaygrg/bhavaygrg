@@ -1,12 +1,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">Welcome To My Profile!!</h2>
+# <h1 align="center">Welcome To My Profile!!</h1>
  <p align="center">
   <img src="ori.gif" alt="animated" />
 </p> 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">About me</h1>
+<h2 align="center">About me</h2>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=radical)
 
