@@ -6,6 +6,10 @@
 
 
 # <h2 align="center">About me</h2>
++ First item
++ Second item
++ Third item
++ Fourth item
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=radical)
