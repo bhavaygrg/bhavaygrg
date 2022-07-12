@@ -37,7 +37,10 @@
 
 # <h2 align="center">My Github Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
