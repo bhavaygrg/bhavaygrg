@@ -70,7 +70,7 @@
 
 
 
-<h1 align="center">Thank You For Visitng My Profile ;)</h1>
+<h1 align="center">Thank You For Visiting My Profile ;)</h1>
                                                                  
  <p align="center">
   <img src="bg.gif.gif" alt="animated" />
