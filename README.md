@@ -1,5 +1,5 @@
 
-<h1 align="center">Sup' Fellow tech enthusiasts >_<</h1>
+<p align="center">Sup' Fellow tech enthusiasts >_<</p>
  <p align="center">
   <img src="ori.gif" alt="animated" />
 </p> 
