@@ -6,9 +6,10 @@
 
 
 # <h2 align="center">About me</h2>
-+Name: Bhavay Garg
-+Pronoun : he/him
-+Hobbys: Coding , Gaming , Breathing
++ Name: Bhavay Garg
++ Pronoun : he/him
++ Hobbys: Coding , Gaming , Breathing
+
 
 
 
