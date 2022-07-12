@@ -44,11 +44,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-![](https://dcbadge.vercel.app/api/shield/280228583518240770)
+
 
 
 
 # <h2 align="center">Contact me!</h2>
+![](https://dcbadge.vercel.app/api/shield/280228583518240770)
 <div id="badges">
   <a href="https://www.linkedin.com/in/bhavaygarg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
