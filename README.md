@@ -51,7 +51,9 @@
 # <h2 align="center">Contact me!</h2>
 <p align="center">
   <img src="call.gif" alt="animated" />
-</p> 
+</p>
+
+
 ![](https://dcbadge.vercel.app/api/shield/280228583518240770)
 <div id="badges">
   <a href="https://www.linkedin.com/in/bhavaygarg/">
