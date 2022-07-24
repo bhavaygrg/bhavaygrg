@@ -45,7 +45,7 @@
 # <h2 align="center">My Github Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0takugod)](https://github.com/0takugod/github-readme-stats)
 
 
 
