@@ -1,5 +1,6 @@
 
 # <h1 align="center">Welcome To My Profile!!</h1>
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
  <p align="center">
   <img src="ori.gif" alt="animated" />
 </p> 
@@ -75,7 +76,7 @@
 </p>                                                              
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
