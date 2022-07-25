@@ -9,8 +9,8 @@
 
 # <h2 align="center">About me</h2>
 + Name: Bhavay Garg
-+ Pronoun : he/him
-+ Hobbies: Coding , Gaming , Breathing
++ Gender: Male
++ Hobbies: Coding , Gaming , Breathing , Sleeping
 
 
 # <h2 align="center">Languages</h2>
