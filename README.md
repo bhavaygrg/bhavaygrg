@@ -66,7 +66,7 @@
   <a href="https://twitter.com/bhavaygarg">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <a href="https://0takugod.github.io/my-socials/">
+ <a href="https://bio.link/bhavay">
     <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="Biolink Badge"/>
   </a>
   
