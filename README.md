@@ -56,6 +56,9 @@
 <p align="center">
   <img src="call.gif" alt="animated" />
 </p>
+
+
+
 ![0takugod’s GitHub image](https://crd.so/i/0takugod?dark&removeLink)
 
 
