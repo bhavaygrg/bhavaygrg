@@ -56,10 +56,11 @@
 <p align="center">
   <img src="call.gif" alt="animated" />
 </p>
+![0takugod’s GitHub image](https://crd.so/i/0takugod?dark&removeLink)
 
 
 ![](https://dcbadge.vercel.app/api/shield/280228583518240770)
-![0takugod’s GitHub image](https://crd.so/i/0takugod?dark&removeLink)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/bhavaygarg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
