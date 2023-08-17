@@ -44,9 +44,9 @@
 
 # <h2 align="center">My Github Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0takugod&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0takugod)](https://github.com/0takugod/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=0takugod&theme=blue-green)](https://github.com/0takugod/github-readme-streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavaygrg&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavaygrg)](https://github.com/bhavaygrg/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavaygrg&theme=blue-green)](https://github.com/bhavaygrg/github-readme-streak-stats)
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-![0takugod’s GitHub image](https://crd.so/i/0takugod?dark&removeLink)
+![0takugod’s GitHub image](https://crd.so/i/bhavaygrg?dark&removeLink)
 
 
 ![](https://dcbadge.vercel.app/api/shield/280228583518240770)
