@@ -59,7 +59,7 @@
 
 
 
-![0takugod’s GitHub image](https://crd.so/i/bhavaygrg?dark&removeLink)
+![bhavaygrg’s GitHub image](https://scastiel.dev/api/image/bhavaygrg)
 
 
 ![](https://dcbadge.vercel.app/api/shield/280228583518240770)
