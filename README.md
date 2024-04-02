@@ -1,6 +1,6 @@
 
 # <h1 align="center">Welcome To My Profile!!</h1>
-[![GitHub followers](https://img.shields.io/github/followers/0takugod.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/0takugod?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/bhavaygrg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bhavaygrg?tab=followers)
  <p align="center">
   <img src="ori.gif" alt="animated" />
 </p> 
